@@ -5,15 +5,15 @@
       "codified-date": "2023-10-28",
       "platform": {
         "reproducible": "false",
-        "version": "2.13.1"
+        "version": "2.13.2"
       },
       "repositories": [
         {
-          "commit": "a22e09e0f3f52b75c7574f99d7c01b4fb86d91ed",
+          "commit": "57bdf6167bcae226557b0a5626d57c4030517e05",
           "name": "umitribe/law-xml"
         },
         {
-          "commit": "2f8801940e9b967e758dadb1055dc510308c6068",
+          "commit": "d0d70100d42b60a6ae6b778920fb54869bdb8491",
           "name": "umitribe/law-xml-codified-preview"
         }
       ]
