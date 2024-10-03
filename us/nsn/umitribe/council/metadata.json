@@ -11,6 +11,10 @@
         {
           "commit": "751973a17b3e3091a10eb2ff72587f4f2ff2ec49",
           "name": "umitribe/law-xml"
+        },
+        {
+          "commit": "a89b50f770d8dc5b59ec6b961cca4f364df94140",
+          "name": "umitribe/law-xml-codified-preview"
         }
       ]
     },
