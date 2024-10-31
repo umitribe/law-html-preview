@@ -9,11 +9,11 @@
       },
       "repositories": [
         {
-          "commit": "bcf4bb6fce130d302bdc392e28c605afdd284a50",
+          "commit": "2b909ff4570a95246069160671249e95aad0edd2",
           "name": "umitribe/law-xml"
         },
         {
-          "commit": "cfd341b1e17ca6eb1e5aa16b083df31743092c74",
+          "commit": "89e7896bf3daf51e144a92707f35579f18303f42",
           "name": "umitribe/law-xml-codified-preview"
         }
       ]
