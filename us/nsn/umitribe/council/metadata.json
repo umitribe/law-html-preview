@@ -5,15 +5,15 @@
       "codified-date": "2024-12-29",
       "platform": {
         "reproducible": "false",
-        "version": "2.14.5"
+        "version": "2.14.11"
       },
       "repositories": [
         {
-          "commit": "0ee61ae08692a4e7f09c2ee3310c2e9a92f3cef2",
+          "commit": "a6a5390b33ebbc552a2adb524732ec674ebcded1",
           "name": "umitribe/law-xml"
         },
         {
-          "commit": "6e1457cef7bdf73925e8c80721d62d846efa8700",
+          "commit": "cf0571258a4bd9aaac533bfc6d7ef7dd840ca660",
           "name": "umitribe/law-xml-codified-preview"
         }
       ]
@@ -21,6 +21,7 @@
     "canonical-urls": {
       "html": "https://law.umitribe.org",
       "html-bulk": "https://github.com/umitribe/law-html",
+      "law-git": "https://github.com/umitribe/law.git",
       "static-assets": "https://github.com/umitribe/law-static-assets",
       "xml-bulk": "https://github.com/umitribe/law-xml"
     },
