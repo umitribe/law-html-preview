@@ -1,21 +1,21 @@
 {
   "meta": {
     "build": {
-      "build-date": "2026-05-15",
-      "ci-build-number": "1.0.47",
+      "build-date": "2026-06-08",
+      "ci-build-number": "1.0.49",
       "ci-project": "umitribe/law-xml",
-      "codified-date": "2026-04-27",
+      "codified-date": "2026-05-22",
       "platform": {
         "reproducible": "false",
-        "version": "2.20.9"
+        "version": "2.20.15"
       },
       "repositories": [
         {
-          "commit": "e9e24282ae4b0765eb18d175047b1af1c4fce5f0",
+          "commit": "a763b24654210f43dafc2342c1502f64c1be4cf5",
           "name": "umitribe/law-xml"
         },
         {
-          "commit": "70d7fb28235d495ea987d026eb89973b68cc2f0f",
+          "commit": "360f43c6462c9708e7e0ac1972c431fb27ed4f00",
           "name": "umitribe/law-xml-codified-preview"
         }
       ],
